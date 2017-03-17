@@ -1,0 +1,6 @@
+keys/*
+!keys/.gitkeep
+*.info
+/tmp/
+*tfstate*
+secrets.tfvars

@@ -1,7 +1,7 @@
 datapipeline-efs-backup-demo
 ============================
 
-http://dev.classmethod.jp/cloud/aws/creating-efs-backup-environment-with-datapipeline-terraform-cloudformation/
+http://dev.classmethod.jp/cloud/aws/creating-efs-backup-environment-with-datapipeline/
 
 ```bash
 $ ssh-keygen -f keys/key_pair -N ''
